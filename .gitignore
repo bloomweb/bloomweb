@@ -1,3 +1,4 @@
 # Ignore IDE created paths
 .idea
 .project
+source/sites/bloomweb.local.local
