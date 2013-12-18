@@ -218,7 +218,7 @@ $databases = array (
       'database' => 'bloomweb_main',
       'username' => 'bloomweb',
       'password' => 'rr40r900343',
-      'host' => (($_SERVER['HTTP_HOST'] == 'sitename.bloomweb.co') ? 'mysql.bloomweb.co' : 'localhost'),
+      'host' => (($_SERVER['HTTP_HOST'] == 'pruebas.bloomweb.co') ? 'mysql.bloomweb.co' : 'localhost'),
       'port' => '',
       'driver' => 'mysql',
       'prefix' => '',
