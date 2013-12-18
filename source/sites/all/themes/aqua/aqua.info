@@ -9,6 +9,7 @@ stylesheets[all][] = stylesheets/prettyPhoto.css
 stylesheets[all][] = stylesheets/carousel.css
 stylesheets[all][] = stylesheets/style.css
 stylesheets[all][] = stylesheets/aqua.css
+stylesheets[all][] = stylesheets/bloomweb.css
 
 scripts[] = js/jquery.easing.1.3.js
 scripts[] = js/common.js

@@ -1,0 +1,22 @@
+body.html{
+	background-color: #fff;
+	background-image: none;
+}
+#wrapper{
+	-webkit-box-shadow: 0 0 0 0 rgba(0,0,0,0);
+	box-shadow: 0 0 0 0 rgba(0,0,0,0);
+}
+
+.header_left img {
+    margin: 20px 0 0 20px;
+}
+body .section_big_title h1 strong, body .section_featured_texts h3 a:hover, body .breadcrumb a:hover, body .post_meta a:hover, #footer a:hover, body a:hover, body a:focus, body #footer a:hover{
+	color: #f47920;
+}
+body .button:hover, body a.button:hover, body button:hover, body input[type="submit"]:hover, body input[type="reset"]:hover, body input[type="button"]:hover, body .button_hilite, body a.button_hilite, body .button_hilite, body a.button_hilite{
+	background-color: #f47920;
+}
+body .portfolio_filter div.current, body .next:hover, .prev:hover, body .pagination .links a:hover, body .info h2, .h2.ls-s2, body .jcarousel-next-horizontal:hover, body .jcarousel-prev-horizontal:hover{
+	background-color: #f47920;
+}
+
